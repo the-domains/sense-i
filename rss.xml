@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[sense-i]]></title>
+        <description><![CDATA[sense-i]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 30 Oct 2015 23:11:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Geometric animation ]]></title>
+            <description><![CDATA[<article><h1>Geometric animation </h1><p>With his work, university professor and artist Ben Ridgway invites viewers to make personal connections to the audio and visual without relying on narrative or spoken language. His animations are hypnotic explorations of nature and mechanics that take viewers on a journey that is hard to describe.</p><img src="http://buzzworthy.s3.amazonaws.com/wp-content/uploads/2015/10/maxresdefault1.jpg"></article>]]></description>
+            <link>http://www.buzzworthy.com/ben-ridgways-animations-are-the-closest-thing-to-a-lsd-experience/</link>
+            <guid isPermaLink="false">0f75336a-a28a-4c89-916a-3fde0f854c6a</guid>
+            <pubDate>Fri, 30 Oct 2015 23:11:12 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
