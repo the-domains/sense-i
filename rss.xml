@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[sense-i]]></title>
         <description><![CDATA[sense-i]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sense-i/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 30 Oct 2015 23:11:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 30 Oct 2015 23:12:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sense-i/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Chris Harrison | Dynamically Changeable Physical Buttons on a Visual Display]]></title>
+            <description><![CDATA[<article><h1>Chris Harrison | Dynamically Changeable Physical Buttons on a Visual Display</h1><p>The outcome of our investigations is a visual display that contains deformable areas, able to produce physical buttons and other interface elements. These tactile features can be dynamically brought into and out of the interface, and otherwise manipulated under program control.</p><img src="http://www.chrisharrison.net/img/pneumaticdisp3.jpg"></article>]]></description>
+            <link>http://www.chrisharrison.net/index.php/Research/PneumaticDisplays</link>
+            <guid isPermaLink="false">b0c77079-144d-4985-9be5-bf4216eaaec9</guid>
+            <pubDate>Fri, 30 Oct 2015 23:11:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Geometric animation ]]></title>
             <description><![CDATA[<article><h1>Geometric animation </h1><p>With his work, university professor and artist Ben Ridgway invites viewers to make personal connections to the audio and visual without relying on narrative or spoken language. His animations are hypnotic explorations of nature and mechanics that take viewers on a journey that is hard to describe.</p><img src="http://buzzworthy.s3.amazonaws.com/wp-content/uploads/2015/10/maxresdefault1.jpg"></article>]]></description>
