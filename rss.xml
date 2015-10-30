@@ -4,8 +4,29 @@
         <description><![CDATA[sense-i]]></description>
         <link>https://thegrid.ai/sense-i/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 30 Oct 2015 23:12:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Oct 2015 23:12:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sense-i/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Aparna Rao: Art that craves your attention]]></title>
+            <description><![CDATA[<article><h1>Aparna Rao: Art that craves your attention</h1><p>In this charming talk, artist Aparna Rao shows us her latest work: cool, cartoony sculptures (with neat robotic tricks underneath them) that play with your perception -- and crave your attention. Take a few minutes to simply be delighted.</p></article>]]></description>
+            <link>http://www.ted.com/talks/aparna_rao_art_that_craves_your_attention?utm_campaign=social&amp;utm_medium=referral&amp;utm_source=facebook.com&amp;utm_content=talk&amp;utm_term=art-design#</link>
+            <guid isPermaLink="false">eec7f9e9-b2fa-4f28-b9a6-0ba1d7f357f9</guid>
+            <pubDate>Fri, 30 Oct 2015 23:11:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Design Research Lab | Reflective Haptics]]></title>
+            <description><![CDATA[<article><h1>Design Research Lab | Reflective Haptics</h1><p>This project investigates a new type of feedback for touch screen styli: frictional actuation. The proposed pen has a ball on its tip, which is connected to an electromagnetic coil. This coil serves as a brake to the ball, enabling fine-tuned control for the force required to drag the pen over the surface.</p><img src="http://www.design-research-lab.org/wp-content/uploads/2011/02/S__0001_drlab_jochen_sw.jpg"></article>]]></description>
+            <link>http://www.design-research-lab.org/projects/reflective-haptics/</link>
+            <guid isPermaLink="false">401406fb-b0d4-4fe5-a98a-6522ecc7a30c</guid>
+            <pubDate>Fri, 30 Oct 2015 23:11:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Natural User Interface: a leap forward]]></title>
+            <description><![CDATA[<article><h1>Natural User Interface: a leap forward</h1><p>One of the characteristics of a successful natural interface is the reduction of cognitive load on people interacting with it Sometimes in some my projects I'm really fascinated of how the world of User Interfaces is evolving. Most of us who are involved in prototyping deal mainly with web-interfaces and mobile-interfaces.</p><img src="http://m.c.lnkd.licdn.com/mpr/mpr/AAEAAQAAAAAAAAaKAAAAJDg4YTJhYjdlLTlkNTAtNDJmZS1iOTA4LTk4NmI0MWQ4NWJiOA.png"></article>]]></description>
+            <link>https://www.linkedin.com/pulse/natural-user-interface-leap-forward-silvio-sangineto</link>
+            <guid isPermaLink="false">18721ea6-6bbd-4d52-9ffe-5c9d7fb26edd</guid>
+            <pubDate>Fri, 30 Oct 2015 23:11:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Chris Harrison | Dynamically Changeable Physical Buttons on a Visual Display]]></title>
             <description><![CDATA[<article><h1>Chris Harrison | Dynamically Changeable Physical Buttons on a Visual Display</h1><p>The outcome of our investigations is a visual display that contains deformable areas, able to produce physical buttons and other interface elements. These tactile features can be dynamically brought into and out of the interface, and otherwise manipulated under program control.</p><img src="http://www.chrisharrison.net/img/pneumaticdisp3.jpg"></article>]]></description>
