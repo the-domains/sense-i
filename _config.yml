@@ -1,0 +1,14 @@
+layout_spectrum: 0.9064547
+color:
+  saturation: 0.1801417
+  lightness: 0.5285478
+  brandStrength: 1
+  brandColors:
+    - '#2F5491'
+    - '#1E1F17'
+    - '#EACFA3'
+    - '#CFEBFC'
+    - '#88885C'
+  rhythmicContrast: 0.4591548
+typography_spectrum: 0.3297491
+name: sense-i
