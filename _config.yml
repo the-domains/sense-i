@@ -10,10 +10,11 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 0.3297491
 color:
   saturation: 1
-  lightness: 1
   brandStrength: 1
+  lightness: 1
   brandColors:
     - '#2F5491'
     - '#1E1F17'
@@ -21,6 +22,5 @@ color:
     - '#CFEBFC'
     - '#88885C'
   rhythmicContrast: 1
-typography_spectrum: 0.3297491
 layout_spectrum: 0.9064547
 name: sense-i
