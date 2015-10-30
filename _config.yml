@@ -1,29 +1,26 @@
-name: sense-i
-favicon: null
-layout_spectrum: 0.9064547
-typography_spectrum: 0.3297491
-title: Haptic and tactile
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-11348977-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 1
+  lightness: 1
+  brandStrength: 1
   brandColors:
     - '#2F5491'
     - '#1E1F17'
     - '#EACFA3'
     - '#CFEBFC'
     - '#88885C'
-  brandStrength: 1
-  lightness: 0.5285478
-  saturation: 0.1801417
-  rhythmicContrast: 0.4591548
-purpose: []
+  rhythmicContrast: 1
+typography_spectrum: 0.3297491
+layout_spectrum: 0.9064547
+name: sense-i
