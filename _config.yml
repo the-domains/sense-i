@@ -1,3 +1,7 @@
+name: sense-i
+favicon: null
+layout_spectrum: 0.9064547
+typography_spectrum: 0.3297491
 collections:
   - index:
       path: /
@@ -10,17 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.3297491
+title: A curation of alternative sensory inputs in human-machine interaction
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 1
-  lightness: 1
   brandColors:
     - '#2F5491'
     - '#1E1F17'
     - '#EACFA3'
     - '#CFEBFC'
     - '#88885C'
+  brandStrength: 1
+  lightness: 1
+  saturation: 1
   rhythmicContrast: 1
-layout_spectrum: 0.9064547
-name: sense-i
+purpose: []
