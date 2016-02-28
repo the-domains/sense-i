@@ -1,6 +1,6 @@
 name: sense-i
 favicon: null
-layout_spectrum: 0.9064547
+layout_spectrum: 0.99932
 typography_spectrum: 0.3297491
 collections:
   - index:
@@ -29,13 +29,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#2F5491'
-    - '#1E1F17'
-    - '#EACFA3'
-    - '#CFEBFC'
-    - '#88885C'
-  brandStrength: 1
+    - '#ecebe6'
+    - '#c2b2a3'
+    - '#e68340'
+    - '#3b190d'
+    - '#dc5306'
+  brandStrength: 0
   lightness: 1
-  saturation: 1
+  saturation: 0
   rhythmicContrast: 1
 purpose: []
