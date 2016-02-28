@@ -1,7 +1,7 @@
 name: sense-i
 favicon: null
 layout_spectrum: 0.99932
-typography_spectrum: 0.3297491
+typography_spectrum: 0.24795
 collections:
   - index:
       path: /
